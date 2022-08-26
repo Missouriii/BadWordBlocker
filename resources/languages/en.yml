@@ -8,14 +8,14 @@
 
 # Block messages
 blocked:
-  message: "§eYour message has been §cblocked §eby BadWordBlocker."
-  messagewithblocked: "§eYour message has been §cblocked §eby BadWordBlocker because of the word §8{blocked}§e."
-  lastwritten: "§cPlease write something else."
-  timewritten: "§cPlease don't write so fast."
-  caps: "§cPlease turn off caps."
+  message: "§l§4»§r §eYour message has been §cblocked"
+  messagewithblocked: "§l§4»§r§e Your message has been §cblocked§e because of the word §8{blocked}§e."
+  lastwritten: "§l§4»§c§r§c Please write something else."
+  timewritten: "§l§4»§r§c Please don't write so fast."
+  caps: "§l§4»§r §cPlease turn off caps."
 
 # Kick message
-kick: "§eYou've been §ckicked §eby BadWordBlocker."
+kick: "§eYou've been §ckicked §ebecause of profanities."
 
 # Ban message
-ban: "§eYou've been §cbanned §eby BadWordBlocker."
+ban: "§eYou've been §cbanned §ebecause of profanities."
